@@ -1,0 +1,2 @@
+# AlZainAITtrade
+Ai trading bot
